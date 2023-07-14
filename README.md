@@ -1,5 +1,36 @@
 ### Hi there 👋
 
+I am Vrushali. I am from India and currently living in Berlin, Germany. 🙂
+
+I am self-motivated and detail oriented Data Analyst with background in iOS development. I bring unique perspective to data analysis, combining analytical skills with a deep understanding of software development principles. 
+
+- 👩🏻‍🎓 I graduated from Ironhack's Data Analytics Bootcamp (07/07/23).
+- 🚀 I am looking for Data analyst opportunities in Berlin, Germany. Open to work Hybrid, Remote as well.
+- 🤟🏼Languages Spoken: English (Proficient), German(Elementary)
+
+### Skills
+
+- Problem solving, Critical Thinking, Team-work, Communication.
+- Data Analysis with Python (Pandas, NumPy) and MySQL.
+- Data Cleaning, Wrangling and Manipulation.
+- Data visualization using Tableau, Mattplotlib and Seaborn.
+- A|B Testing using confidence intervals and Hypothesis Testing.
+- API management and Web scraping
+- Feature Selection 
+- Building and evaluating regression and classification models.
+- Natural language processing (NLP) techniques like Tokenization, Stemming and Lemmatization and Stop words.
+- Work in Agile Methodology
+
+### Projects
+
+- Berlin Road Accidents Data Analysis.
+- India's Crop Production Data Analysis.
+- Music Recommender.
+- Make over Monday - London Bus Tableau Dashboard:  https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/MakeOverMonday-LondonBusSafety/Dashboard1
+- Bike Sales Tableau Dashboard:  https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/BikeSales_16667124546990/Dashboard1
+- AirBnb Tableau Dashboard: https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/AirBnb_16645556001610/Dashboard1
+
+
 <!--
 **vrushali92/vrushali92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
