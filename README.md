@@ -25,7 +25,6 @@ I am self-motivated and detail oriented Data Analyst with background in iOS deve
 
 - Berlin Road Accidents Data Analysis.
 - India's Crop Production Data Analysis.
-- Music Recommender.
 - Make over Monday - London Bus Tableau Dashboard:  https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/MakeOverMonday-LondonBusSafety/Dashboard1
 - Bike Sales Tableau Dashboard:  https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/BikeSales_16667124546990/Dashboard1
 - AirBnb Tableau Dashboard: https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/AirBnb_16645556001610/Dashboard1
