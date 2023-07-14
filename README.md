@@ -30,6 +30,10 @@ I am self-motivated and detail oriented Data Analyst with background in iOS deve
 - Bike Sales Tableau Dashboard:  https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/BikeSales_16667124546990/Dashboard1
 - AirBnb Tableau Dashboard: https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/AirBnb_16645556001610/Dashboard1
 
+### Contact
+- LinkedIn: https://www.linkedin.com/in/vrushali-kulkarni-data-analyst/
+- Email ID: kulkarni.vrushali281@gmail.com
+
 
 <!--
 **vrushali92/vrushali92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
