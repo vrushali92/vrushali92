@@ -4,7 +4,7 @@ I am Vrushali. I am from India and currently live in Berlin, Germany. 🙂
 
 I am a self-motivated and detail-oriented Data Analyst with a background in iOS development. I bring a unique perspective to data analysis, combining analytical skills with a deep understanding of software development principles. 
 
-- 👩🏻‍🎓 I graduated from Ironhack's Data Analytics Bootcamp (07/07/23), a full-time program - 9 weeks, +400 hours.
+- 👩🏻‍🎓 I graduated from Ironhack's Data Analytics Bootcamp (July-23), a full-time program - 9 weeks, +400 hours.
 - 💻 During bootcamp I worked on 20 Labs which helped to learn Data analytics skills.
 - 🚀 I am looking for Data analyst opportunities in Berlin, Germany. Open to work Hybrid, Remote as well.
 - 🤟🏼Languages Spoken: English (Proficient), German(Elementary)
