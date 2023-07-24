@@ -14,7 +14,7 @@ I am a self-motivated and detail-oriented Data Analyst with a background in iOS 
 - Problem-solving, Critical Thinking, Teamwork, Communication.
 - Data Analysis with Python (Pandas, NumPy) and MySQL.
 - Data Cleaning, Wrangling and Manipulation.
-- Data visualization using Tableau, Mattplotlib and Seaborn.
+- Data visualization using Tableau, Matplotlib and Seaborn.
 - A|B Testing using confidence intervals and Hypothesis Testing.
 - API management and Web scraping
 - Feature Selection 
